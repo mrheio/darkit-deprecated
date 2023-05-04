@@ -1,10 +1,10 @@
 {
-	"name": "darkit-deprecated-",
+	"name": "darkit-deprecated",
 	"displayName": "Darkit [Deprecated]",
 	"description": "A dark theme.",
 	"type": "module",
 	"publisher": "mrheio",
-	"version": "1.0.0",
+	"version": "99.0.0",
 	"engines": {
 		"vscode": "^1.7.0"
 	},
