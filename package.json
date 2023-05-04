@@ -1,0 +1,27 @@
+{
+	"name": "darkit-deprecated-",
+	"displayName": "Darkit [Deprecated]",
+	"description": "A dark theme.",
+	"type": "module",
+	"publisher": "mrheio",
+	"version": "3.8.1",
+	"engines": {
+		"vscode": "^1.7.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Darkit [Deprecated]",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Darkit-Deprecated-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thesadlad/darkit-deprecated"
+	}
+}
